@@ -2,8 +2,8 @@
 <h3 align="left">A software engineer from New Zealand, currently living in Toronto, Canada.</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/corbyngreenwood/)
-[![Linkedin Badge](https://img.shields.io/badge/-Website-55cc69?style=flat-square&logo=google-chrome&logoColor=white)](https://corbyngreenwood.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-Leetcode-0e76a8?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/CorbynG98/)
+[![Website Badge](https://img.shields.io/badge/-Website-55cc69?style=flat-square&logo=google-chrome&logoColor=white)](https://corbyngreenwood.com/)
+[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-d1a71d?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/CorbynG98/)
 
 - 🔭 I’m currently working on [Receiptably](https://github.com/Receiptably)
 
