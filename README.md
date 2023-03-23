@@ -47,7 +47,7 @@
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
       <li><b>OS:</b> Windows 11</li>
-      <li><b>Laptop: </b> Custom built PC (i7, 16gb ram, 3070 GPU) - (Soon to upgrade)</li>
+      <li><b>Computer: </b> Custom built PC (Ryzen 9 5900X, 16gb ram, 3070TI GPU)</li>
       <li><b>Browser: </b> Chrome / Firefox</li>
 	    <li><b>Terminal: </b> Windows Terminal</li>
 	    <li><b>Code Editor:</b> VSCode and VS2022</li>
